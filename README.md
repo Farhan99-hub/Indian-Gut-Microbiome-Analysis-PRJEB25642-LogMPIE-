@@ -28,17 +28,17 @@ See **docs/results_summary.md** and **docs/figure_captions.md** for more details
 ```
 prjeb25642-10samples-gut-microbiome/
 ├── notebooks/
-│   └── analysis.ipynb          # Colab notebook (end-to-end)
+│   └── analysis.ipynb          
 ├── results/
-│   ├── figures/                # Extracted figures from notebook
-│   └── tables/                 # (optional) summary CSVs
+│   ├── figures/                
+│   └── tables/             
 ├── docs/
 │   ├── results_summary.md
 │   ├── figure_captions.md
 │   └── methods.md
-├── data/                       # (optional) metadata / small tables
-├── scripts/                    # (optional) helper scripts
-├── environment.yml             # Reproducible environment
+├── data/                      
+├── scripts/                    
+├── environment.yml             
 ├── LICENSE
 └── README.md
 ```
@@ -53,10 +53,4 @@ prjeb25642-10samples-gut-microbiome/
    jupyter notebook notebooks/analysis.ipynb
    ```
 
-## Citation
-- Data: PRJEB25642 (LogMPIE). Please cite the original study.
-- This repo: add your GitHub URL here once published.
-
 ---
-
-**Author:** Your Name · **Last updated:** 2025-08-14
