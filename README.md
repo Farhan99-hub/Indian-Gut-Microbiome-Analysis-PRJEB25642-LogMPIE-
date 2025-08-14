@@ -54,3 +54,4 @@ prjeb25642-10samples-gut-microbiome/
    ```
 
 ---
+## Citation - Dubey, A., Uppadhyaya, N., Nilawe, P. et al. LogMPIE, pan-India profiling of the human gut microbiome using 16S rRNA sequencing. Sci Data 5, 180232 (2018). https://doi.org/10.1038/sdata.2018.232
