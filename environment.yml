@@ -1,0 +1,18 @@
+name: logmpie
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - jupyter
+  - r-base
+  - r-dada2
+  - r-phyloseq
+  - r-ggplot2
+  - r-tidyverse
+  - r-biocmanager
+  - r-biocgenerics
+  - sra-tools
+  - wget
+  - pip
